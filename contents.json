@@ -1,0 +1,115 @@
+{
+	"title": "Awesome Sketch",
+	"header": "A collaborative list of awesome Sketch resources.",
+	"header_contributing": "Found something awesome? Please contribute! Your contributions are always welcome :) Please take a quick look at the [contribution guidelines](CONTRIBUTING.md)",
+	"categories": [
+		{
+			"title": "Awesome Sketch",
+			"id": "awesome-sketch",
+			"description": "Sketch resources to speed-up your design."
+		},
+		{
+			"title": "Resources",
+			"id": "resources",
+			"description": "Various resources, such as books, websites and articles, for improving your Sketch/Designing skills and knowledge."
+		},
+		{
+			"title": "Plugins",
+			"id": "plugins",
+			"description": "Curated plugins for Sketch."
+		},
+		{
+			"title": "Services",
+			"id": "services",
+			"description": "Third party services to extend Sketch eco-system."
+		},
+		{
+			"title": "Community",
+			"id": "community",
+			"description": "Sketch communities which you can join."
+		},
+	],
+	"subCategories": [
+		{
+			"title": "UI",
+			"id": "Mockups",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Mockups",
+			"id": "mockups",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Icons",
+			"id": "icons",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Wireframes",
+			"id": "wireframes",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Web",
+			"id": "web",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Mobile",
+			"id": "mobile",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Real",
+			"id": "real",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Form",
+			"id": "form",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Logo",
+			"id": "logo",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Misc",
+			"id": "misc",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Guides",
+			"id": "guides",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Articles",
+			"id": "articles",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Books",
+			"id": "books",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Tutorials",
+			"id": "tutorials",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Videos",
+			"id": "videos",
+			"parent": "awesome-sketch"
+		},
+		{
+			"title": "Websites",
+			"id": "websites",
+			"parent": "awesome-sketch"
+		}
+	],
+	"resources": []
+}
